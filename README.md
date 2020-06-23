@@ -2,8 +2,8 @@
 
 This Contains Basic Python Oscillator Simulations (As a supplement to a current physics project I am working on) Using the p5 and matplotlib libraries for graphics. Calculations are done using the Runge–Kutta method
 
-#### Bugs/Fixes/Updates: 
-> Will Fix Bug With Coupled Pendulum In Near Future! </br>
+#### Bugs/Fixes/Updates/Notes: 
+> Fix Bug With Coupled Pendulum In Near Future! </br>
 > Add a father oscillator class that all oscillators will inherit from. </br>
 > Many More Oscillators To Be Added Soon! </br>
 
