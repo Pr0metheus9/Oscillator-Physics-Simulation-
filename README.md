@@ -3,8 +3,10 @@
 This Contains Basic Python Oscillator Simulations (As a supplement to a current physics project I am working on) Using the p5 and matplotlib libraries for graphics. Calculations are done using the Runge–Kutta method
 
 #### Bugs/Fixes/Updates: 
-> Will Fix Bug With Coupled Pendulum In Near Future!
-> </br> Many More Oscillators To Be Added Soon!
+> Will Fix Bug With Coupled Pendulum In Near Future! </br>
+> Add a father oscillator class that all oscillators will inherit from. </br>
+> Many More Oscillators To Be Added Soon! </br>
+
 
 #### Bibliography/Useful Links:
 >https://www.researchgate.net/publication/320371012_A_study_of_kinetic_friction_The_Timoshenko_oscillator </br>
