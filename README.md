@@ -7,11 +7,11 @@ This Contains Basic Python Oscillator Simulations (As a supplement to a current 
 > </br> Many More Oscillators To Be Added Soon!
 
 #### Bibliography/Useful Links:
->https://www.researchgate.net/publication/320371012_A_study_of_kinetic_friction_The_Timoshenko_oscillator
->http://www.maths.surrey.ac.uk/explore/michaelspages/documentation/Coupled
->https://scholar.harvard.edu/files/david-morin/files/cmchap6.pdf
->https://en.wikipedia.org/wiki/Elastic_pendulum
->https://www.myphysicslab.com/explain/runge-kutta-en.html
->https://www.youtube.com/watch?v=uWzPe_S-RVE
+>https://www.researchgate.net/publication/320371012_A_study_of_kinetic_friction_The_Timoshenko_oscillator </br>
+>http://www.maths.surrey.ac.uk/explore/michaelspages/documentation/Coupled </br>
+>https://scholar.harvard.edu/files/david-morin/files/cmchap6.pdf </br>
+>https://en.wikipedia.org/wiki/Elastic_pendulum </br>
+>https://www.myphysicslab.com/explain/runge-kutta-en.html </br>
+>https://www.youtube.com/watch?v=uWzPe_S-RVE </br>
 
 
