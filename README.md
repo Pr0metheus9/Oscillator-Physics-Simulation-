@@ -4,7 +4,7 @@ This Contains Basic Python Oscillator Simulations (As a supplement to a current 
 
 #### Bugs/Fixes/Updates: 
 > Will Fix Bug With Coupled Pendulum In Near Future!
-> Many More Oscillators To Be Added Soon!
+> </br> Many More Oscillators To Be Added Soon!
 
 #### Bibliography/Useful Links:
 >https://www.researchgate.net/publication/320371012_A_study_of_kinetic_friction_The_Timoshenko_oscillator
