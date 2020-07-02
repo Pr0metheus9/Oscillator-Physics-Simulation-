@@ -9,10 +9,11 @@ This Contains Basic Python Oscillator Simulations (As a supplement to a current 
 > Add a father oscillator class that all oscillators will inherit from. </br>
 > Many More Oscillators To Be Added Soon! </br>
 
-#### Examples
-> Example 1: <br> </br> ![](simpleasgif.gif)
-
-
+#### Examples:
+>Pendulum: <br></br> <img src="simpleasgif.gif" width="400" height="300" /> <br></br>
+> Double Pendulum: <br></br> <img src="chaoticgif.gif" width="400" height="300" /> <br></br>
+> Coupled Pendulum: <br></br> <img src="coupledgif.gif" width="400" height="300" /> <br></br>
+> Spring Pendulum: <br></br> <img src="springgif.gif" width="400" height="300" /> <br></br>
 #### Bibliography/Useful Links:
 >https://www.researchgate.net/publication/320371012_A_study_of_kinetic_friction_The_Timoshenko_oscillator </br>
 >http://www.maths.surrey.ac.uk/explore/michaelspages/documentation/Coupled </br>
