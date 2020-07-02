@@ -9,6 +9,9 @@ This Contains Basic Python Oscillator Simulations (As a supplement to a current 
 > Add a father oscillator class that all oscillators will inherit from. </br>
 > Many More Oscillators To Be Added Soon! </br>
 
+#### Examples
+> Example 1: <br> </br> ![](simpleasgif.gif)
+
 
 #### Bibliography/Useful Links:
 >https://www.researchgate.net/publication/320371012_A_study_of_kinetic_friction_The_Timoshenko_oscillator </br>
