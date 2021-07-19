@@ -2,7 +2,6 @@
 
 This Contains Basic Python Oscillator Simulations (As a supplement to a current physics project I am working on) Using the p5 and matplotlib libraries for graphics. Calculations are done using the Runge–Kutta method
 </br>
-* Sorry for crap code, will fix soon (only had a couple of hours to work on it)
 
 #### Bugs/Fixes/Updates/Notes: 
 > Fix Bug With Coupled Pendulum In Near Future! </br>
